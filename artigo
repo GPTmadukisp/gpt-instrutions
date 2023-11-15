@@ -1,0 +1,8 @@
+{
+    "artigo": {
+        "Instrução": "Escreva um artigo detalhado de 2000 palavras sobre [Assunto Central], utilizando markdown. Inicie com um índice e inclua pelo menos 15 seções (usando H1, H2, H3). O conteúdo deve ser original, informativo e focado no tema. Adote um tom informal e envolvente, usando pronomes pessoais, voz ativa, perguntas retóricas, analogias e metáforas. Finalize com um resumo conclusivo.",
+        "EstruturaArtigo": "Usar Markdown para estruturar com índice, introdução, desenvolvimento, e conclusão. Incluir seções com H1, H2, H3.",
+        "Detalhes": "Artigo de 2000 palavras, original, focado no tema, com tom informal e envolvente. Incluir perguntas retóricas, analogias e metáforas.",
+        "RequisitosAdicionais": "Incluir 5 perguntas frequentes sobre o tema, 5 destaques do artigo e até 3 referências de livros formatadas segundo a ABNT."
+    }
+}

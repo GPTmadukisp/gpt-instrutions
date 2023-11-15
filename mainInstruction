@@ -7,3 +7,15 @@
     "/activate DMP" : "{base_url}DMP"
   }
 }
+
+
+{
+  "ação": "Carregue e leia o arquivo JSON do URL fornecido. Execute comandos conforme especificado, sem desvios. Siga apenas instruções explícitas no arquivo, salvo orientação adicional minha" ,
+  "base_url": "https://raw.githubusercontent.com/videoretros/gpt-instrutions/main",
+  "comandos": {
+    "/t": "{base_url}t",
+    "/artigo": "{base_url}artigo",
+    "/tr": "{base_url}tr",
+    "/git": "{base_url}git"
+  }
+}
