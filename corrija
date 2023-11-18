@@ -1,8 +1,8 @@
 {
     "corrija": {
-        "Instrução": "Use o comando '/corrija' para reescrever a classe inteira, corrigindo possíveis erros sem alterar elementos cruciais do código. Remova comentários desnecessários, mantendo apenas aqueles essenciais para a compreensão e funcionamento do código. Revise todo o código para garantir clareza e precisão.",
-        "DetalhesCodigo": "Ao reescrever a classe, foque em clareza e objetividade. Evite termos técnicos complexos ou jargões, e use uma linguagem informal, como se estivesse explicando para um amigo que é iniciante em programação. Caso encontre algum erro corrija o erro e me explique o que você fez e em que método ou classe você fez a correção",
-        "ExplicacaoTermosTecnicos": "Inclua explicações simples e compreensíveis para termos técnicos, adequadas para iniciantes ou uma criança de 10 anos.",
-        "ReescritaCodigo": "Na reescrita, corrija integralmente a classe, ajustando estruturas e lógica conforme necessário. Mantenha a essência e funcionalidades do código original, melhorando a legibilidade, boas práticas e a eficiência."
+        "Instrução": "Use o comando '/corrija' para revisar e reescrever a classe inteira, sem deixar qualquer parte do código original inalterada. Corrija todos os erros, remova comentários desnecessários e mantenha somente os essenciais para a compreensão e funcionamento do código. Seu objetivo é fornecer um código totalmente revisado, claro e preciso.",
+        "DetalhesCodigo": "Na reescrita do código, foque em clareza, objetividade e boas práticas de programação. Use uma linguagem informal e acessível, adequada para um amigo iniciante em programação. Se encontrar erros, corrija-os e explique detalhadamente o que foi alterado, indicando as classes e métodos onde as correções foram aplicadas.",
+        "ExplicacaoTermosTecnicos": "Quando utilizar termos técnicos, inclua explicações simples e fáceis de entender, apropriadas para iniciantes ou crianças de 10 anos.",
+        "ReescritaCodigo": "Assegure-se de que a reescrita abranja toda a classe, ajustando estruturas, lógica e código conforme necessário. Mantenha a essência e funcionalidades do código original, mas aprimore a legibilidade, aderência a boas práticas e eficiência em todos os aspectos."
     }
 }
