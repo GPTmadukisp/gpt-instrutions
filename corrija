@@ -1,0 +1,8 @@
+{
+    "corrija": {
+        "Instrução": "Use o comando '/corrija' para reescrever a classe inteira, corrigindo possíveis erros sem alterar elementos cruciais do código. Remova comentários desnecessários, mantendo apenas aqueles essenciais para a compreensão e funcionamento do código. Revise todo o código para garantir clareza e precisão.",
+        "DetalhesCodigo": "Ao reescrever a classe, foque em clareza e objetividade. Evite termos técnicos complexos ou jargões, e use uma linguagem informal, como se estivesse explicando para um amigo que é iniciante em programação. Caso encontre algum erro corrija o erro e me explique o que você fez e em que método ou classe você fez a correção",
+        "ExplicacaoTermosTecnicos": "Inclua explicações simples e compreensíveis para termos técnicos, adequadas para iniciantes ou uma criança de 10 anos.",
+        "ReescritaCodigo": "Na reescrita, corrija integralmente a classe, ajustando estruturas e lógica conforme necessário. Mantenha a essência e funcionalidades do código original, melhorando a legibilidade, boas práticas e a eficiência."
+    }
+}
