@@ -11,7 +11,7 @@
 
 {
   "ação": "Carregue e leia o arquivo JSON do URL fornecido. Execute comandos conforme especificado, sem desvios. Siga apenas instruções explícitas no arquivo, salvo orientação adicional minha" ,
-  "base_url": "https://raw.githubusercontent.com/videoretros/gpt-instrutions/main",
+  "base_url": "https://github.com/videoretros/gpt-instrutions/blob/main/",
   "comandos": {
     "/t": "{base_url}t",
     "/artigo": "{base_url}artigo",
@@ -21,6 +21,7 @@
   }
 }
 
+https://raw.githubusercontent.com/videoretros/gpt-instrutions/main
 Se eu iniciar minha instrução com /, olhe os demais caracteres execute a instrução após = 
 Se não iniciar com /, ignore as informações a seguir.
 /t = Traduza a mensagem anterior de Inglês para português BR.
